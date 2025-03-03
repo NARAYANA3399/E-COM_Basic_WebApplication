@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Add Product</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container mt-4">
+    <h1>Add New Product</h1>
+
+    <form action="/added" method="post" th:object="${product}">
+		<!-- Product Id -->
+		 <div class="form-group">
+		     <label for="id">ID:</label>
+		     <input type="text" id="id" name="id"  class="form-control" required placeholder="Enter Product ID">
+		 </div>
+        <!-- Brand Name -->
+        <div class="form-group">
+            <label for="brandName">Brand Name:</label>
+            <input type="text" id="brandName" name="brandName" class="form-control" required placeholder="Enter Product Brand Name">
+        </div>
+
+        <!-- Model -->
+        <div class="form-group">
+            <label for="model">Model:</label>
+            <input type="text" id="model" name="model" class="form-control" required placeholder="Enter Product Model">
+        </div>
+
+		<!-- Image -->
+	    <div class="form-group">
+		     <label for="imageFile">Image:</label>
+		     <input type="text" id="imageFile" name="imageFile" class="form-control" required placeholder="Enter Product Image">
+		 </div>
+				
+        <!-- Price -->
+        <div class="form-group">
+            <label for="price">Price:</label>
+            <input type="number" id="price" name="price" class="form-control" required placeholder="Enter Product Price" min="0" step="0.01">
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" class="btn btn-primary">Add Product</button>
+		<button class="btn btn-primary" onclick="window.location.href='/'">Back</button>
+    </form>
+</div>
+
+<!-- Optional: Include Bootstrap JS for enhanced functionality -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
