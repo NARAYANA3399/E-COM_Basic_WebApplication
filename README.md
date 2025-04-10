@@ -26,7 +26,6 @@ A Full Stark E-Commers platform Built with java, Spring Boot, JPA, MySQL, & Thym
 * If using MySQL, update the database properties in 'application.properties'.
 
 3.Run the Application:
-
 * Open the project in your IDE (e.g., IntelliJ or VS Code).
 * Run the BugTrackerApplication.java class.
 * The application should now be running at 'http://localhost:8080'.
