@@ -18,15 +18,17 @@ A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 ## How to Run It
 
   ## 1. Instailation
-
+  
 * Clone the Repository:- 'https://github.com/NARAYANA3399/E-COM_Basic_WebApplication'
 * Navigate to the Project folder.
 * Run the application using 'mvn Spring-boot:run'.
 
   ## 2. Set Up the Application
+  
 * If using MySQL, update the database properties in 'application.properties'.
 
- ##  3. Run the Application:
+  ## 3. Run the Application
+  
 * Open the project in your IDE (e.g., IntelliJ or VS Code).
 * Run the BugTrackerApplication.java class.
 * The application should now be running at 'http://localhost:8080'.
