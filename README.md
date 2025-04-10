@@ -1,4 +1,5 @@
-E-COMMERS WEB APPLICATION
+## E-COMMERS WEB APPLICATION
+
 A Full Stark E-Commers platform Built with java, Spring Boot, JPA, MySQL, & Thymeleaf.
 
 ## Technologies Used
