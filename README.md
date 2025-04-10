@@ -53,9 +53,32 @@ A Full Stark E-Commers platform Built with java, Spring Boot, JPA, MySQL, & Thym
 
 ## SCREEN SHORT
 
-  ## HOME PAGE
+  * HOME PAGE
 
 ![Screenshot 2025-04-10 144614](https://github.com/user-attachments/assets/80659206-0d96-4280-a127-6064d1a658da)
+
+  * LOGIN PAGE(ROLE BASDE)
+
+![Screenshot 2025-04-10 144628](https://github.com/user-attachments/assets/1f563705-7a87-41d6-9f11-31f3c87c24b5)
+
+  * PRODUCT STORE
+
+![Screenshot 2025-04-10 144600](https://github.com/user-attachments/assets/6730da6d-9c5d-4e37-9847-31128c3d0081)
+
+*  ADD PRODUCT
+
+![Screenshot 2025-04-10 145112](https://github.com/user-attachments/assets/7526d05a-dd61-4649-9912-af00756dd051)
+
+* UPDATE/EDIT PRODUCT
+
+![Screenshot 2025-04-10 144819](https://github.com/user-attachments/assets/05bb2e3a-1b4b-4e6a-867c-ae67e95277b8)
+
+* DELETE PRODUCT
+
+![Screenshot 2025-04-10 144846](https://github.com/user-attachments/assets/57c1b6cb-293a-4da9-8771-268c940c0c56)
+
+
+
 
 
 
