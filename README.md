@@ -17,7 +17,7 @@ A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 
 ## How to Run It
 
-## 1. Instailation
+## 1. Repository
   
 * Clone the Repository:- 'https://github.com/NARAYANA3399/E-COM_Basic_WebApplication'
 * Navigate to the Project folder.
