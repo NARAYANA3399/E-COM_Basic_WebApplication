@@ -38,7 +38,7 @@ A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 ## 3. Run the Application
   
 * Open the project in your IDE (e.g., IntelliJ or VS Code).
-* Run the BankingApplication.java class (which contains the @SpringBootApplication annotation).
+* Run the E-CommerceApplication.java class (which contains the @SpringBootApplication annotation).
 * The application should now be running at 'http://localhost:8080'.
 
 ## 4. Test the API Endpoints:
