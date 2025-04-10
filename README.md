@@ -1,6 +1,6 @@
 ## E-COMMERS WEB APPLICATION
 
-A Full Stark E-Commers platform Built with java, Spring Boot, JPA, MySQL, & Thymeleaf.
+A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 
 ## Technologies Used
 * Forntend: CSS, HTML
@@ -10,10 +10,10 @@ A Full Stark E-Commers platform Built with java, Spring Boot, JPA, MySQL, & Thym
 * JPA: Hibernate for database interaction
 
 ## Features
-*Secure Login with Spring Security
-*Role based login
-*Add Product
-*Product Edit & Delete
+* Secure Login with Spring Security
+* Role based login
+* Add Product
+* Product Edit & Delete
 
 ## How to Run It
 
