@@ -3,9 +3,9 @@
 A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 
 ## Technologies Used
-* Forntend: CSS, HTML, Boots Strap
+* Forntend: CSS, HTML, BootsStrap
 * Backend: java 17+, Spring Boot, RestFul API's, Thymeleaf
-* Security: Spring Security(Role Based Authentication)
+* Security: Spring Security (Role Based Authentication)
 * DataBase: MySQL
 * JPA: Hibernate for database interaction
 
