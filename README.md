@@ -1,6 +1,13 @@
 ## E-COMMERS WEB APPLICATION
 
-A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
+This is a Full-Stack E-Commerce platform built using Java, Spring Boot, Thymeleaf, and MySQL. The application provides functionality for managing products, secure logins, role-based authentication, and basic e-commerce features.
+
+## Key Features
+* Secure Login with Spring Security (Role-Based Authentication)
+* Role-Based Login: Different users can access different features based on roles (Admin, User, etc.)
+* Add Product: Admin can add products to the catalog.
+* Edit Product: Admin can edit product details.
+* Delete Product: Admin can delete products from the catalog.
 
 ## Technologies Used
 * Forntend: CSS, HTML, BootsStrap
@@ -8,12 +15,6 @@ A Full Stark E-Commers platform Built with java, Spring Boot, & Thymeleaf.
 * Security: Spring Security (Role Based Authentication)
 * DataBase: MySQL (for storing user data)
 * JPA: Hibernate for database interaction
-
-## Features
-* Secure Login with Spring Security
-* Role based login
-* Add Product
-* Product Edit & Delete
 
 ## How to Run It
 
